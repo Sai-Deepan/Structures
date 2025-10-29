@@ -1,0 +1,85 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*.class
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# ------------------------
+# Vim / Editor files
+# ------------------------
+# Vim swap, backup, and undo files
+*.swp
+*.swo
+*.swm
+*.swn
+*.un~
+*.vimbackup
+*.viminfo
+
+# JetBrains / VSCode (if opened accidentally)
+.idea/
+.vscode/
+
+# ------------------------
+# OS-specific
+# ------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
